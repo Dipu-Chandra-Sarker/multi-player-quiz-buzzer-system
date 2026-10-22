@@ -1,6 +1,5 @@
 # Multiplayer Quiz Buzzer System
 
-🏆 **Runner-Up, Junior Group — EEE Project Show Spring 2025, United International University**
 
 A 4-player quiz buzzer system, built twice: first with pure digital logic (44 ICs, no microcontroller), then redesigned on an STM32 microcontroller.
 
